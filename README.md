@@ -14,7 +14,7 @@ Hey there! 👋
 
 - 👨‍💻 All of my projects are available at [https://shashankshekharam.github.io/ShashankJha.github.io/](https://shashankshekharam.github.io/ShashankJha.github.io/)
 
-- 💬 Ask me about **react,or any other frontend projects.**
+- 💬 Ask me about **react,or any other frontend projects.** [](https://docs.google.com/document/d/1_p3JNRbmO0QfF3owe03KDv6ksUtYHLGmkTr5A1Q4W0E/edit)
 
 - 📫 How to reach me **shashankshekharam@gmail.com**
 
