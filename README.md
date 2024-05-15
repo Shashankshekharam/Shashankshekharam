@@ -3,6 +3,27 @@ Hey there! 👋
 
 My GitHub is a playground where I explore and share my coding adventures.
 
+const shashank = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C++"],
+    askMeAbout: ["web dev", "frontend design trends", "clean designing"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Bootstrap", "Tailwind", "Materialize", "Material UI", "Bulma", "UIkit"]
+        },
+        backEnd: {
+            js: ["Node", "Express", "Adonis"],
+        },
+        mobileApp: {
+            native: ["React"]
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Sequalize", "Git"]
+    },
+    funFact: "There are two ways to write error-free programs; only the third one works",
+    profileContent: `
+
 <h1 align="center">Hi 👋, I'm Shashank Jha</h1>
 <h3 align="center">A passionate Software Developer from Patna, Bihar, India</h3>
 
