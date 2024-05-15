@@ -3,27 +3,29 @@ Hey there! 👋
 
 My GitHub is a playground where I explore and share my coding adventures.
 
-const shashank = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "C++", "Java"],
-    askMeAbout: ["web dev", "frontend design trends", "clean designing"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Bootstrap", "Tailwind", "Materialize", "Material UI", "UIkit"]
-        },
-        backEnd: {
-            js: ["Node", "Express", ""],
-        },
-        mobileApp: {
-            native: ["React"]
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Git"]
-    },
-    funFact: "There are two ways to write error-free programs; only the third one works",
-    profileContent: `
-
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+    const shashank = { 
+        pronouns: "He" | "Him", 
+        code: ["Javascript", "C++", "Java"], 
+        askMeAbout: ["web dev", "frontend design trends", "clean designing"], 
+        technologies: { 
+            frontEnd: { 
+                js: ["React"], 
+                css: ["Bootstrap", "Tailwind", "Materialize", "Material UI", "UIkit"] 
+            }, 
+            backEnd: { 
+                js: ["Node", "Express", ""], 
+            }, 
+            mobileApp: { 
+                native: ["React"] 
+            }, 
+            databases: ["mongo", "MySql", "sqlite"], 
+            misc: ["Firebase", "Git"] 
+        }, 
+        funFact: "There are two ways to write error-free programs; only the third one works", 
+    
+};
+</div>
 <h1 align="center">Hi 👋, I'm Shashank Jha</h1>
 <h3 align="center">A passionate Software Developer from Patna, Bihar, India</h3>
 
