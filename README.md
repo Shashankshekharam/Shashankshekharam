@@ -12,7 +12,7 @@ Hey there! 👋
 
 - 🌱Always learning! Currently, I'm diving deeper into frontend technology **like React JS and Java.**
 
--👨‍💻 All of my projects are available at [https://shashankshekharam.github.io/ShashankJha.github.io/](https://shashankshekharam.github.io/ShashankJha.github.io/)
+- 👨‍💻 All of my projects are available at [https://shashankshekharam.github.io/ShashankJha.github.io/](https://shashankshekharam.github.io/ShashankJha.github.io/)
 - 💬 Ask me about **react,or any other frontend projects.**  https://docs.google.com/document/d/1_p3JNRbmO0QfF3owe03KDv6ksUtYHLGmkTr5A1Q4W0E/edit
 
 - 📫 How to reach me **shashankshekharam@gmail.com**
@@ -21,7 +21,7 @@ Hey there! 👋
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/shashank-jha-2718a619a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/shashank-jha-2718a619a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/shashank-jha-2718a619a" target="blank"><img align="center" src="" alt="http://www.linkedin.com/in/shashank-jha-2718a619a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
