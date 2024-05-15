@@ -22,7 +22,7 @@ Hey there! 👋
     <br>
     💬 Ask me about **React or any other frontend projects**. Check out my [Google Doc](https://docs.google.com/document/d/1_p3JNRbmO0QfF3owe03KDv6ksUtYHLGmkTr5A1Q4W0E/edit)
     <br>
-    📫 How to reach me: <strong>shashankshekharam@gmail.com</strong>
+    📫 How to reach me: <strong>shashankshekharam@gmail.com</strong> <Strong> [Profile](https://bento.me/shashankjha) </>
     <br>
     ⚡ Fun fact: I once attempted to learn the ancient art of juggling but ended up mastering the art of dropping things instead.
   </p>
