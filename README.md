@@ -3,7 +3,7 @@ Hey there! 👋
 <div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 
   <h1 align="left">Hi 👋, I'm Shashank Jha</h1>
-  <h3 align="left">A passionate frontend developer from India</h3>
+  <h3 align="left">A passionate frontend developer from Patna, Bihar, India</h3>
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=shashankshekharam&label=Profile%20views&color=0e75b6&style=flat" alt="shashankshekharam" />
