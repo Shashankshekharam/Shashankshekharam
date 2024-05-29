@@ -122,19 +122,17 @@ const shashank = {
             css: ["Bootstrap", "Tailwind", "Materialize", "Material UI", "UIkit"]
         },
         backEnd: {
-            js: ["Node", "Express", ""],
+            js: ["Node",,"Java"],
         },
-        mobileApp: {
-            native: ["React"]
-        },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MySql"],
         misc: ["Firebase", "Git"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+console.log(shashank);
 
-Feel free to adjust the formatting or add more details as needed!
 
----------------------------------------
+
+-----------------------------------Feel free to adjust the formatting or add more details as needed!----
 
 
