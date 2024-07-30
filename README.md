@@ -18,7 +18,7 @@ Hey there! 👋
   <p align="left">
     🌱 Always learning! Currently, I'm diving deeper into frontend technology like React JS and Java.
     <br>
-    👨‍💻 All of my projects are available at <a href="https://shashankshekharam.github.io/ShashankJha.github.io/">My Portfolio</a>.
+    👨‍💻 All of my projects are available at <a href="https://shashankshekharam.github.io/portfolio/">My Portfolio</a>.
     <br>
     💬 Ask me about **React or any other frontend projects**. Check out my [Google Doc](https://docs.google.com/document/d/1_p3JNRbmO0QfF3owe03KDv6ksUtYHLGmkTr5A1Q4W0E/edit)
     <br>
